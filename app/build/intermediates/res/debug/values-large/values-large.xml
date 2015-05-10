@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- From: file:/home/ldionmarcil/StudioProjects/OSRSHelper/app/src/main/res/values-large/bools.xml -->
-    <eat-comment/>
-    <bool name="large_layout">true</bool>
-</resources>

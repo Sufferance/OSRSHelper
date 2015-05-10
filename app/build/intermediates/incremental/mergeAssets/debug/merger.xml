@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/ldionmarcil/StudioProjects/OSRSHelper/app/src/main/assets"><file name="osrs.jpg" path="/home/ldionmarcil/StudioProjects/OSRSHelper/app/src/main/assets/osrs.jpg"/></source></dataSet><dataSet config="debug"><source path="/home/ldionmarcil/StudioProjects/OSRSHelper/app/src/debug/assets"/></dataSet></merger>

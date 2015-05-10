@@ -60,3 +60,11 @@ bin
 
 #Macintosh
 .DS_Store
+
+#Gradle
+.gradle
+/local.properties
+/.idea/workspace.xml
+.idea
+build
+*.iml
